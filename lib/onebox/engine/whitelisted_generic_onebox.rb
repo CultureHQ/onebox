@@ -55,9 +55,11 @@ module Onebox
           ebay.co.uk
           ebay.com
           ehow.com
+          espn.com
           espn.go.com
           etsy.com
           facebook.com
+          finance.yahoo.com
           findery.com
           folksy.com
           forbes.com
@@ -72,7 +74,9 @@ module Onebox
           ign.com
           ikea.com
           imdb.com
+          inc.com
           indiatimes.com
+          investopedia.com
           itunes.apple.com
           khanacademy.org
           kickstarter.com
@@ -81,6 +85,7 @@ module Onebox
           linkedin.com
           liveleak.com
           livestream.com
+          marketwatch.com
           mashable.com
           medium.com
           meetedgar.com
@@ -90,11 +95,16 @@ module Onebox
           myshopify.com
           myspace.com
           nba.com
+          nbcnews.com
           npr.org
           nytimes.com
           photobucket.com
           pinterest.com
+          podcasts.apple.com
+          politico.com
+          reddit.com
           reference.com
+          reuters.com
           revision3.com
           rottentomatoes.com
           samsung.com
@@ -128,10 +138,12 @@ module Onebox
           wi.st
           wikia.com
           wikihow.com
+          wikipedia.com
           wired.com
           wistia.com
           wonderhowto.com
           wsj.com
+          yahoo.com
           zappos.com
           zillow.com
         )
